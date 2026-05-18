@@ -1,64 +1,65 @@
-RIVERS IN THE DARK
-Written by Bradley Hobbs
+# RIVERS IN THE DARK
+
+### Written by Bradley Hobbs
 
 
-ABOUT
+## About
 
-Rivers in the Dark is a faith centered story about purpose, fatherhood, hope, and discovering that God often moves through quiet places before larger transformation becomes visible.
+*Rivers in the Dark* is a faith centered story about purpose, fatherhood, hope, and discovering that God often moves through quiet places before larger transformation becomes visible.
 
 Brad lives beneath the weight of routine, responsibilities, unanswered questions, and inner struggles. Through unexpected moments with his son Gabe, gentle encounters, and the leading of Jesus, small moments begin changing everything.
 
-Some rivers flow where everyone can see them.
+> Some rivers flow where everyone can see them.
+>
+> Others begin in the dark.
 
-Others begin in the dark.
 
+---
 
-LIVE WEBSITE
+## Live Website
 
 https://brad-hobbswd.github.io/rivers-in-the-dark/
 
 
-PAGES
+---
 
-index.html
+## Pages
 
-about.html
-
-chapter1.html
-
-chapter2.html
-
-chapter3.html
-
-chapter4.html
-
-chapter5.html
-
-chapter6.html
-
-404.html
+- index.html
+- about.html
+- chapter1.html
+- chapter2.html
+- chapter3.html
+- chapter4.html
+- chapter5.html
+- chapter6.html
+- 404.html
 
 
-FEATURES
+---
 
-Responsive mobile layout
+## Features
 
-Tablet friendly design
+✓ Responsive mobile layout
 
-Desktop optimization
+✓ Tablet friendly design
 
-Cinematic landing page
+✓ Desktop optimization
 
-Chapter navigation system
+✓ Cinematic landing page
 
-Custom themed 404 page
+✓ Chapter navigation system
 
-Faith centered storytelling
+✓ Custom themed 404 page
 
-Book inspired visual atmosphere
+✓ Faith centered storytelling
+
+✓ Book inspired visual atmosphere
 
 
-THEME
+---
+
+## Theme
 
 Deep midnight blues
 
@@ -71,12 +72,16 @@ Quiet atmosphere
 Story centered experience
 
 
-AUTHOR
+---
 
-Bradley Hobbs
+## Author
+
+**Bradley Hobbs**
 
 
-COPYRIGHT
+---
+
+## Copyright
 
 © 2026 Bradley Hobbs
 
