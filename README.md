@@ -1,88 +1,31 @@
-# RIVERS IN THE DARK
+# Rivers in the Dark | Bradley Hobbs
 
-### Written by Bradley Hobbs
-
-
-## About
-
-*Rivers in the Dark* is a faith centered story about purpose, fatherhood, hope, and discovering that God often moves through quiet places before larger transformation becomes visible.
-
-Brad lives beneath the weight of routine, responsibilities, unanswered questions, and inner struggles. Through unexpected moments with his son Gabe, gentle encounters, and the leading of Jesus, small moments begin changing everything.
-
-> Some rivers flow where everyone can see them.
->
-> Others begin in the dark.
-
-
----
+A Christian narrative or devotional project about hope, endurance, and the sustaining presence of God through dark and uncertain seasons.
 
 ## Live Website
-
 https://brad-hobbswd.github.io/rivers-in-the-dark/
 
+## Overview
+A Christian narrative or devotional project about hope, endurance, and the sustaining presence of God through dark and uncertain seasons.
 
----
+## Pages in This Repository
+- `about.html`
+- `chapter1.html`
+- `chapter2.html`
+- `chapter3.html`
+- `chapter4.html`
+- `chapter5.html`
+- `chapter6.html`
+- `introduction.html`
 
-## Pages
+## Technology
+Static website published with GitHub Pages using HTML and supporting styling, scripts, and assets.
 
-- index.html
-- about.html
-- chapter1.html
-- chapter2.html
-- chapter3.html
-- chapter4.html
-- chapter5.html
-- chapter6.html
-- 404.html
+## Copyright and Permissions
+Copyright © 2026 Bradley Hobbs. All rights reserved.
 
+Original book or study text, reflections, teaching content, website copy, graphics, layout, and source code are protected by copyright. Prior written permission is required to reproduce, republish, redistribute, modify, or commercially use original materials, except where applicable law permits otherwise. Scripture translations and third-party materials remain subject to their respective owners' terms.
 
----
-
-## Features
-
-✓ Responsive mobile layout
-
-✓ Tablet friendly design
-
-✓ Desktop optimization
-
-✓ Cinematic landing page
-
-✓ Chapter navigation system
-
-✓ Custom themed 404 page
-
-✓ Faith centered storytelling
-
-✓ Book inspired visual atmosphere
-
-
----
-
-## Theme
-
-Deep midnight blues
-
-Warm gold accents
-
-Reflective visual design
-
-Quiet atmosphere
-
-Story centered experience
-
-
----
-
-## Author
-
-**Bradley Hobbs**
-
-
----
-
-## Copyright
-
-© 2026 Bradley Hobbs
-
-All rights reserved.
+## Search Engine Files
+- [Sitemap](sitemap.xml)
+- [robots.txt](robots.txt)
